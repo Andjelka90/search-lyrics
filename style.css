@@ -1,0 +1,28 @@
+body{
+    background: url(media/music.png);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    text-shadow: black;
+}
+
+input{
+    color: bisque;
+    background: black;
+}
+
+h1{
+    color: bisque;
+}
+
+
+label{
+    color: bisque;
+}
+
+#naslov{
+    color: bisque;
+}
+
+#tekst{
+    color: bisque;
+}
